@@ -80,7 +80,7 @@ gosto     testes E2E · automação · IA local
       <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="44" alt="Selenium" /><br><sub>Selenium</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="44" alt="Postman" /><br><sub>Postman</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=jest" width="44" alt="Jest" /><br><sub>Jest</sub></td>
-      <td align="center"><img src="https://cdn.simpleicons.org/playwright/2EAD33" width="44" alt="Playwright" /><br><sub>Playwright</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=playwright" width="44" alt="Playwright" /><br><sub>Playwright</sub></td>
       <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="44" alt="PyAutoGUI" /><br><sub>PyAutoGUI</sub></td>
       <td colspan="4"></td>
     </tr>
@@ -93,7 +93,7 @@ gosto     testes E2E · automação · IA local
       <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="44" alt="Prometheus" /><br><sub>Prometheus</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="44" alt="Grafana" /><br><sub>Grafana</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="44" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="44" alt="PowerShell" /><br><sub>PowerShell</sub></td>
+      <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=powershell" width="44" alt="PowerShell" /><br><sub>PowerShell</sub></td>
     </tr>
   <tr>
     <td align="right"><sub><b>GESTÃO</b></sub></td>
