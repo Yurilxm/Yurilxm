@@ -94,14 +94,15 @@ gosto     testes E2E · automação · IA local
       <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="44" alt="Grafana" /><br><sub>Grafana</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="44" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="44" alt="PowerShell" /><br><sub>PowerShell</sub></td>
+      <td></td>
     </tr>
   <tr>
-    <td align="right"><sub><b>GESTÃO</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" /><br><sub>Git</sub></td>
-    <td align="center"><img src="./assets/icons/gitea.svg" width="44" alt="Gitea" /><br><sub>Gitea</sub></td>
-    <td align="center"><img src="./assets/icons/jira.svg" width="44" alt="Jira" /><br><sub>Jira</sub></td>
-    <td colspan="6"></td>
-  </tr>
+      <td align="right"><sub><b>GESTÃO</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" /><br><sub>Git</sub></td>
+      <td align="center"><img src="./assets/icons/gitea.svg" width="44" alt="Gitea" /><br><sub>Gitea</sub></td>
+      <td align="center"><img src="./assets/icons/jira.svg" width="44" alt="Jira" /><br><sub>Jira</sub></td>
+      <td colspan="6"></td>
+    </tr>
 </table>
 
 <p align="center">
