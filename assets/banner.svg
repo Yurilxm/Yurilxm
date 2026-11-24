@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">Yuri Lima</title>
+  <desc id="d">Desenvolvedor Full Stack. Uma suíte de testes passa e revela o nome.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A0507"/>
+      <stop offset="1" stop-color="#2A0A0E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#800E13" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#800E13" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="360" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .sans{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif}
+    .ln{opacity:0;animation:show .25s ease-out forwards}
+    .l0{animation-delay:.2s}.l1{animation-delay:.7s}.l2{animation-delay:1.2s}
+    .l3{animation-delay:1.7s}.l4{animation-delay:2.2s}.l5{animation-delay:2.8s}
+    .nm{opacity:0;animation:rise .6s cubic-bezier(.2,.8,.2,1) 3.1s forwards}
+    .sb{opacity:0;animation:rise .6s cubic-bezier(.2,.8,.2,1) 3.4s forwards}
+    .bar{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:wipe .6s cubic-bezier(.2,.8,.2,1) 3.3s forwards}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes show{to{opacity:1}}
+    @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes wipe{to{transform:scaleX(1)}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){
+      .ln,.nm,.sb{animation:none;opacity:1}
+      .bar{animation:none;transform:scaleX(1)}
+      .cur{animation:none}
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#glow)"/>
+
+    <rect x="0" y="0" width="1200" height="44" fill="#140406"/>
+    <circle cx="32" cy="22" r="6" fill="#800E13"/>
+    <circle cx="54" cy="22" r="6" fill="#640D14"/>
+    <circle cx="76" cy="22" r="6" fill="#3A0A0E"/>
+    <text class="mono" x="600" y="27" font-size="13" fill="#A8787E" text-anchor="middle" letter-spacing="1">perfil.spec.ts — yurilxm</text>
+
+    <line x1="620" y1="84" x2="620" y2="316" stroke="#3A0A0E" stroke-width="1"/>
+
+    <g class="mono" font-size="17">
+      <text class="ln l0" x="64" y="100" fill="#A8787E">$ npm run test:e2e -- perfil</text>
+
+      <g class="ln l1">
+        <text x="64" y="146" fill="#E07A80">✓</text>
+        <text x="92" y="146" fill="#F3E4DF">interface</text>
+        <text x="232" y="146" fill="#A8787E">React · TypeScript</text>
+        <text x="572" y="146" fill="#6E4A4F" text-anchor="end">0.4s</text>
+      </g>
+      <g class="ln l2">
+        <text x="64" y="178" fill="#E07A80">✓</text>
+        <text x="92" y="178" fill="#F3E4DF">api</text>
+        <text x="232" y="178" fill="#A8787E">Python · Django</text>
+        <text x="572" y="178" fill="#6E4A4F" text-anchor="end">0.3s</text>
+      </g>
+      <g class="ln l3">
+        <text x="64" y="210" fill="#E07A80">✓</text>
+        <text x="92" y="210" fill="#F3E4DF">automação</text>
+        <text x="232" y="210" fill="#A8787E">Playwright · Selenium</text>
+        <text x="572" y="210" fill="#6E4A4F" text-anchor="end">0.6s</text>
+      </g>
+      <g class="ln l4">
+        <text x="64" y="242" fill="#E07A80">✓</text>
+        <text x="92" y="242" fill="#F3E4DF">ia</text>
+        <text x="232" y="242" fill="#A8787E">Ollama · Gemini</text>
+        <text x="572" y="242" fill="#6E4A4F" text-anchor="end">0.5s</text>
+      </g>
+
+      <g class="ln l5">
+        <rect x="64" y="272" width="96" height="28" rx="4" fill="#800E13"/>
+        <text x="112" y="292" fill="#F3E4DF" font-size="15" font-weight="700" text-anchor="middle">4 passed</text>
+        <text x="176" y="292" fill="#A8787E" font-size="15">(1.8s)</text>
+        <rect class="cur" x="236" y="278" width="10" height="18" fill="#E07A80"/>
+      </g>
+    </g>
+
+    <text class="sans nm" x="676" y="190" font-size="68" font-weight="800" letter-spacing="1" fill="#F3E4DF">YURI LIMA</text>
+    <rect class="bar" x="678" y="212" width="440" height="6" fill="#800E13"/>
+    <text class="sans sb" x="678" y="256" font-size="22" font-weight="500" fill="#E8CFCA">Desenvolvedor Full Stack</text>
+    <text class="mono sb" x="678" y="290" font-size="13" letter-spacing="3" fill="#A8787E">SÃO PEDRO DA ALDEIA · RJ</text>
+  </g>
+</svg>
