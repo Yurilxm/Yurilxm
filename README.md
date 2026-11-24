@@ -36,6 +36,7 @@ gosto     testes E2E · automação · IA local
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React" /><br><sub>React</sub></td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript" /><br><sub>TypeScript</sub></td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js" /><br><sub>Next.js</sub></td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML" /><br><sub>HTML</sub></td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS" /><br><sub>CSS</sub></td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind" /><br><sub>Tailwind</sub></td>
@@ -43,46 +44,72 @@ gosto     testes E2E · automação · IA local
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vite" width="44" alt="Vite" /><br><sub>Vite</sub></td>
   </tr>
   <tr>
-    <td align="right"><sub><b>BACKEND & MOBILE</b></sub></td>
+    <td align="right"><sub><b>BACKEND</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python" /><br><sub>Python</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="44" alt="Django" /><br><sub>Django</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="44" alt="FastAPI" /><br><sub>FastAPI</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js" /><br><sub>Node.js</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/celery/37814A" width="44" alt="Celery" /><br><sub>Celery</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="44" alt="Telegram Bot" /><br><sub>Telegram Bot</sub></td>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>MOBILE</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React Native" /><br><sub>React Native</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/expo/white" width="44" alt="Expo Go" /><br><sub>Expo Go</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="44" alt="Android Studio" /><br><sub>Android Studio</sub></td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DADOS</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="44" alt="Redis" /><br><sub>Redis</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="44" alt="Supabase" /><br><sub>Supabase</sub></td>
+    <td align="center"><img src="./assets/qdrant.svg" width="44" alt="Qdrant" /><br><sub>Qdrant</sub></td>
     <td colspan="5"></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>IA</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/ollama/white" width="44" alt="Ollama" /><br><sub>Ollama</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" alt="Gemini" /><br><sub>Gemini</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/openai/white" width="44" alt="MCP" /><br><sub>MCP</sub></td>
+    <td colspan="6"></td>
   </tr>
   <tr>
     <td align="right"><sub><b>TESTES</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="44" alt="Selenium" /><br><sub>Selenium</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="44" alt="Postman" /><br><sub>Postman</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jest" width="44" alt="Jest" /><br><sub>Jest</sub></td>
     <td colspan="6"></td>
   </tr>
   <tr>
     <td align="right"><sub><b>INFRA</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux" /><br><sub>Linux</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="44" alt="PowerShell" /><br><sub>PowerShell</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="44" alt="Nginx" /><br><sub>Nginx</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker" /><br><sub>Docker</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux" /><br><sub>Linux</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="44" alt="Ubuntu" /><br><sub>Ubuntu</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="44" alt="Nginx" /><br><sub>Nginx</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="44" alt="Prometheus" /><br><sub>Prometheus</sub></td>
-    <td colspan="3"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="44" alt="Grafana" /><br><sub>Grafana</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="44" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="44" alt="PowerShell" /><br><sub>PowerShell</sub></td>
+    <td></td>
   </tr>
   <tr>
     <td align="right"><sub><b>GESTÃO</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gitea" width="44" alt="Gitea" /><br><sub>Gitea</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=jira" width="44" alt="Jira" /><br><sub>Jira</sub></td>
-    <td colspan="7"></td>
+    <td colspan="6"></td>
   </tr>
 </table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Playwright-640D14?style=flat-square" />
-  <img src="https://img.shields.io/badge/Testes_E2E-640D14?style=flat-square" />
   <img src="https://img.shields.io/badge/Qualidade_de_software-640D14?style=flat-square" />
   <img src="https://img.shields.io/badge/PyAutoGUI-640D14?style=flat-square" />
-  <img src="https://img.shields.io/badge/Expo_Go-640D14?style=flat-square&logo=expo&logoColor=F3E4DF" />
-  <br>
-  <img src="https://img.shields.io/badge/Gemini-800E13?style=flat-square&logo=googlegemini&logoColor=F3E4DF" />
-  <img src="https://img.shields.io/badge/Ollama-800E13?style=flat-square&logo=ollama&logoColor=F3E4DF" />
+  <img src="https://img.shields.io/badge/Engenharia_de_Prompt-800E13?style=flat-square" />
   <img src="https://img.shields.io/badge/Modelos_LLM-800E13?style=flat-square" />
   <img src="https://img.shields.io/badge/OCR-800E13?style=flat-square" />
-  <img src="https://img.shields.io/badge/Engenharia_de_Prompt-800E13?style=flat-square" />
   <br>
   <img src="https://img.shields.io/badge/Scrum-2A0A0E?style=flat-square" />
   <img src="https://img.shields.io/badge/Kanban-2A0A0E?style=flat-square" />
