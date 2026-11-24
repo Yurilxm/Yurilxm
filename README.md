@@ -72,7 +72,7 @@ gosto     testes E2E · automação · IA local
     <td align="right"><sub><b>IA</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/ollama/white" width="44" alt="Ollama" /><br><sub>Ollama</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" alt="Gemini" /><br><sub>Gemini</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/openai/white" width="44" alt="MCP" /><br><sub>MCP</sub></td>
+    <td align="center"><img src="./assets/icons/mcp.svg" width="44" alt="MCP" /><br><sub>MCP</sub></td>
     <td colspan="6"></td>
   </tr>
   <tr>
@@ -97,8 +97,8 @@ gosto     testes E2E · automação · IA local
   <tr>
     <td align="right"><sub><b>GESTÃO</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" /><br><sub>Git</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gitea" width="44" alt="Gitea" /><br><sub>Gitea</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=jira" width="44" alt="Jira" /><br><sub>Jira</sub></td>
+    <td align="center"><img src="./assets/icons/gitea.svg" width="44" alt="Gitea" /><br><sub>Gitea</sub></td>
+    <td align="center"><img src="./assets/icons/jira.svg" width="44" alt="Jira" /><br><sub>Jira</sub></td>
     <td colspan="6"></td>
   </tr>
 </table>
